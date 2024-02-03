@@ -22,8 +22,8 @@ This project is created with:
 * Open Weather API
 
 ## Screenshot
-![project screenshot](assets/weather-dashboard-screenshot.png)
-Link to my deployed github page: https://rachelrohrbach.github.io/weather-dashboard/
+![project screenshot]("C:\Users\SAMRIDDHI\OneDrive\Pictures\Screenshots\weather forecast dashboard.png")
+Link to my deployed github page: file:///C:/Users/SAMRIDDHI/OneDrive/Desktop/weather%20forecast%20dashboard%201/weather-dashboard/index.html
 
 
 # Credits
